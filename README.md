@@ -48,7 +48,7 @@ https://github.com/kiasar/gutenberg_cleaner
 
 > pip install gutenberg-cleaner
 
-```
+```Python
 # Just removes lines that are part of the Project Gutenberg header or footer. 
 # Doesnt go deeply in the text to remove other things like titles or footnotes or etc...
 
