@@ -60,3 +60,7 @@ with open('filenames[0], 'r', encoding = 'utf8') as f:
     
 fiction = gutenberg_cleaner.simple_cleaner(' '.join(lines))
 ```
+
+## Word Pairs for Affluence, Race, and Gender
+
+https://github.com/KnowledgeLab/GeometryofCulture/tree/master/code/word_pairs
