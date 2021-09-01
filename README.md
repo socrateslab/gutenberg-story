@@ -51,8 +51,11 @@ https://github.com/kiasar/gutenberg_cleaner
 ```Python
 # Just removes lines that are part of the Project Gutenberg header or footer. 
 # Doesnt go deeply in the text to remove other things like titles or footnotes or etc...
+import glob
 
-with open('gutenberg_fiction_text/'+filenames[0], 'r', encoding = 'utf8') as f:
+filenames = glob.glob('*.txt')
+
+with open('filenames[0], 'r', encoding = 'utf8') as f:
     lines = f.readlines()
     
 fiction = gutenberg_cleaner.simple_cleaner(' '.join(lines))
