@@ -53,7 +53,7 @@ https://github.com/kiasar/gutenberg_cleaner
 # Doesnt go deeply in the text to remove other things like titles or footnotes or etc...
 
 with open('gutenberg_fiction_text/'+filenames[0], 'r', encoding = 'utf8') as f:
-    n1 = f.readlines()
+    lines = f.readlines()
     
 fiction = gutenberg_cleaner.simple_cleaner(' '.join(lines))
 ```
