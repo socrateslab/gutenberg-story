@@ -42,3 +42,18 @@ https://www.heywhale.com/mw-org/art_nju/project/612db3f9c9c30f001877f3a4
 
 ![image](https://user-images.githubusercontent.com/543384/131467241-7a7be6c1-764c-4223-92b2-8abfe9918ff5.png)
 
+## Data Cleaning
+
+https://github.com/kiasar/gutenberg_cleaner
+
+> pip install gutenberg-cleaner
+
+```
+# Just removes lines that are part of the Project Gutenberg header or footer. 
+# Doesnt go deeply in the text to remove other things like titles or footnotes or etc...
+
+with open('gutenberg_fiction_text/'+filenames[0], 'r', encoding = 'utf8') as f:
+    n1 = f.readlines()
+    
+fiction = gutenberg_cleaner.simple_cleaner(' '.join(lines))
+```
