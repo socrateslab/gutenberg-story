@@ -64,3 +64,7 @@ fiction = gutenberg_cleaner.simple_cleaner(' '.join(lines))
 ## Word Pairs for Affluence, Race, and Gender
 
 https://github.com/KnowledgeLab/GeometryofCulture/tree/master/code/word_pairs
+
+
+![image](https://user-images.githubusercontent.com/543384/131626146-c869c392-de7b-439f-b81d-a2c1223699c9.png)
+
