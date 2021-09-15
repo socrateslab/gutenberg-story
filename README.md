@@ -76,5 +76,5 @@ Pipeline to generate the Standardized Project Gutenberg Corpus
 
 - https://github.com/pgcorpus/gutenberg
 - https://arxiv.org/pdf/1812.08092.pdf
-- zenodo.org/record/2422561
+- https://zenodo.org/record/2422561
 
