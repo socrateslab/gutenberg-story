@@ -68,3 +68,13 @@ https://github.com/KnowledgeLab/GeometryofCulture/tree/master/code/word_pairs
 
 ![image](https://user-images.githubusercontent.com/543384/131626146-c869c392-de7b-439f-b81d-a2c1223699c9.png)
 
+## More information
+
+A standardized Project Gutenberg corpus for statistical analysis of natural language and quantitative linguistics
+
+Pipeline to generate the Standardized Project Gutenberg Corpus
+
+- https://github.com/pgcorpus/gutenberg
+- https://arxiv.org/pdf/1812.08092.pdf
+- zenodo.org/record/2422561
+
