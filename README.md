@@ -1,4 +1,6 @@
-# gutenberg-story
+
+# 谷腾堡小说数据：识别故事中隐藏的社会偏见
+
 
 ![image](https://user-images.githubusercontent.com/543384/131449340-a7be1c92-fb3c-4497-b318-e3d880dc8ed2.png)
 
@@ -7,8 +9,6 @@
 - 结束 11.05
 
 https://www.heywhale.com/org/art_nju/competition/area/612a4eff39efe300170cdaf2/content/2
-
-# 识别故事中隐藏的社会偏见
 
 ## 一、题目描述
 ### 赛题题目
