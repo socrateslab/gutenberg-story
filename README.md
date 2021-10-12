@@ -4,9 +4,9 @@
 
 ![image](https://user-images.githubusercontent.com/543384/131449340-a7be1c92-fb3c-4497-b318-e3d880dc8ed2.png)
 
-- 开始 9.01
-- 第一阶段 9.01-11.05
-- 结束 11.05
+- 报名开始时间：【2021年9月1日】（中午 12:00:00）
+- 报名截止时间：【2021年10月20日】（下午 17:00:00）
+- 组队截止时间：【2021年10月20日】（下午 17:00:00）
 
 https://www.heywhale.com/org/art_nju/competition/area/612a4eff39efe300170cdaf2/content/2
 
