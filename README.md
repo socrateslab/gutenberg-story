@@ -1,6 +1,8 @@
 
 # 谷腾堡小说数据：识别故事中隐藏的社会偏见
 
+> Xu H, Zhang Z, Wu L *, Wang C.J. * (2019) The Cinderella Complex: Word embeddings reveal gender stereotypes in movies and books. PLoS ONE 14(11): e0225385. [doi:10.1371/journal.pone.0225385](https://doi.org/10.1371/journal.pone.0225385)
+
 
 ![image](https://user-images.githubusercontent.com/543384/131449340-a7be1c92-fb3c-4497-b318-e3d880dc8ed2.png)
 
