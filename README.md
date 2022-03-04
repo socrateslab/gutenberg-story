@@ -10,7 +10,11 @@
 - 报名截止时间：【2021年10月20日】（下午 17:00:00）
 - 组队截止时间：【2021年10月20日】（下午 17:00:00）
 
-https://www.heywhale.com/org/art_nju/competition/area/612a4eff39efe300170cdaf2/content/2
+<del>https://www.heywhale.com/org/art_nju/competition/area/612a4eff39efe300170cdaf2/content/2</del>
+
+## 获取数据
+
+https://pan.baidu.com/s/1A7BFw1E7Eqe_fzYb76sBLQ?pwd=zu5n 
 
 ## 一、题目描述
 ### 赛题题目
